@@ -1,7 +1,10 @@
-# About landing-site-project
+# About bikini-bottoms
 
 This project is part of the Foundation part of kkwrecks completing the Odin Project, shall aim to complete it with speed and efficiency - thus using the provided templates and media.
 It is day 10 of embarking on the Odin Project (10 Jan 2025), making steady progress and glad about it.
+Decided to take on the theme of the neighborhood in Spongebob Squarepants - introducing the neighbours there.
+
+You can view the site [here](https://kkwrecks.github.io/bikini-bottoms/ "Bikini Bottoms - under the sea").
 
 ***
 
